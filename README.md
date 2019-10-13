@@ -1,4 +1,4 @@
-# My Stock Predictor
+<h1 align="center">My Stock Predictor</h1>
 
 This is a neural network that aims to predict statistics such as open, high, low and close prices for specific stocks.  
   
